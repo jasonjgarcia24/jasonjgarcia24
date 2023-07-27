@@ -15,9 +15,11 @@ Discord: jjgarcia.eth | Telegram: @JJGarcia24<br><br>
 
 <h3>Publications</h3>
 - <b>Harnessing Foundry Cheatcodes: JSON Report Generation with Solidity</b><br>
-<a href="https://medium.com/better-programming/harnessing-foundry-cheatcodes-json-report-generation-with-solidity-45f629534264">https://medium.com/better-programming/harnessing-foundry-cheatcodes-json-report-generation-with-solidity-45f629534264</a><br><br>
+<a href="https://betterprogramming.pub/harnessing-foundry-cheatcodes-json-report-generation-with-solidity-45f629534264">https://betterprogramming.pub/harnessing-foundry-cheatcodes-json-report-generation-with-solidity-45f629534264</a><br><br>
 - <b>A Solidity Symphony: Testing Events with Foundry</b><br>
-<a href="https://medium.com/@jason.garcia24/a-solidity-symphony-testing-solidity-event-emissions-with-foundry-5e241415796b">https://medium.com/@jason.garcia24/a-solidity-symphony-testing-solidity-event-emissions-with-foundry-5e241415796b</a>
+<a href="https://betterprogramming.pub/a-solidity-symphony-testing-solidity-event-emissions-with-foundry-5e241415796b">https://betterprogramming.pub/a-solidity-symphony-testing-solidity-event-emissions-with-foundry-5e241415796b</a><br><br>
+- <b>Solidity 0.8.21 Language Feature: Flexible Immutables</b><br>
+<a href="https://betterprogramming.pub/solidity-0-8-21-language-feature-flexible-immutables-f36c6406c82e">https://betterprogramming.pub/solidity-0-8-21-language-feature-flexible-immutables-f36c6406c82e</a>
 
 <!--
 **jasonjgarcia24/jasonjgarcia24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
