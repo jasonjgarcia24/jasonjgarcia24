@@ -1,37 +1,39 @@
-<h1>Smart Contract Dev</h1>
-Discord: jjgarcia.eth | Telegram: @JJGarcia24<br><br>
+# 🎯 Technical Program Manager | Cross-Functional Leadership | AR/VR Systems
 
-<p aligh="justify">Hi there 👋! I'm Jason Garcia (<a href="https://etherscan.io/name-lookup-search?id=jjgarcia.eth">jjgarcia.eth</a>), an experienced and passionate Blockchain Developer specializing in DeFi and protocol design. I bring deep expertise in creating secure, production-grade smart contracts using cutting-edge development technologies like Solidity, Yul, Python, JavaScript, and Cadence, to name a few.</p>
+**Contact:** [jjgarcia.eth](https://etherscan.io/name-lookup-search?id=jjgarcia.eth) | Discord: jjgarcia.eth | Telegram: @JJGarcia24
 
-<p aligh="justify">In my work, I've always strived to strike a balance between innovative problem-solving and meticulous execution. My projects, such as AnzaFinance, embody my commitment to leveraging blockchain technologies for meaningful, scalable solutions. With an ever-evolving tech landscape, I continually strive to stay ahead of the curve - learning new languages, exploring fresh concepts, and always looking for the next challenge.</p>
+## 👋 About Me
 
-<p aligh="justify">In my professional experience, I have managed smart contract development for a startup with a multimillion-dollar enterprise customer, SW and HW maintenance of mature national assets, as well as development of flight test instructions for multi-million dollar complex UAV systems.</p>
+I'm Jason Garcia, a Technical Program Manager with 10+ years of experience driving complex technical programs from concept to delivery. Currently at Meta's AR/VR Research Technologies division, I lead cross-functional teams, manage multi-million dollar budgets 💰, and coordinate strategic initiatives across camera and sensor development, annotations and data labeling processes, and vendor contract management.
 
-<p aligh="justify">But it's not all about codes and contracts! I also love sharing my knowledge and learnings with the community. I've authored articles such as "Harnessing Foundry Cheatcodes: JSON Report Generation with Solidity" and "A Solidity Symphony: Testing Events with Foundry," aimed at aiding other developers in the blockchain space.</p>
+My background spans both hands-on technical development 👨‍💻 and strategic program leadership 📊. Before transitioning to program management, I specialized in blockchain development and DeFi protocol design ⛓️, where I built production-grade smart contracts and led development for startup initiatives with multimillion-dollar enterprise customers. This technical foundation enables me to bridge the gap between engineering teams and business stakeholders effectively.
 
-<p aligh="justify">If you're interested in discussing blockchain development, DeFi, or protocol design, I'm always open to a good tech conversation. So don't hesitate to reach out!</p>
+I'm passionate about leveraging AI tools 🤖 for process automation, building robust evaluation infrastructure, and creating scalable solutions that drive measurable impact. Whether coordinating hardware development programs or optimizing data quality pipelines, I focus on strategic execution that aligns technical capabilities with business objectives.
 
-<p aligh="justify">Enjoy exploring my GitHub repositories, and feel free to connect with me on <a href="https://www.linkedin.com/in/24-jason-j-garcia/">LinkedIn</a>.</p>
+## 🚀 Core Competencies
 
-<h3>Publications</h3>
-- <b>Harnessing Foundry Cheatcodes: JSON Report Generation with Solidity</b><br>
-<a href="https://betterprogramming.pub/harnessing-foundry-cheatcodes-json-report-generation-with-solidity-45f629534264">https://betterprogramming.pub/harnessing-foundry-cheatcodes-json-report-generation-with-solidity-45f629534264</a><br><br>
-- <b>A Solidity Symphony: Testing Events with Foundry</b><br>
-<a href="https://betterprogramming.pub/a-solidity-symphony-testing-solidity-event-emissions-with-foundry-5e241415796b">https://betterprogramming.pub/a-solidity-symphony-testing-solidity-event-emissions-with-foundry-5e241415796b</a><br><br>
-- <b>Solidity 0.8.21 Language Feature: Flexible Immutables</b><br>
-<a href="https://betterprogramming.pub/solidity-0-8-21-language-feature-flexible-immutables-f36c6406c82e">https://betterprogramming.pub/solidity-0-8-21-language-feature-flexible-immutables-f36c6406c82e</a>
+**Program & People Management:** Cross-functional coordination | Stakeholder management | Team leadership | Budget planning & financial strategy | Vendor contract management
 
-<!--
-**jasonjgarcia24/jasonjgarcia24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Expertise:** Software development lifecycle | Camera & sensor systems (VR/AR) 🥽 | Data quality & eval infrastructure | AI tools integration | Technical documentation
 
-Here are some ideas to get you started:
+**Strategic Execution:** Strategic planning | Process automation | Knowledge management | Annotations & data labeling | Systems engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience
+
+**Meta (AR/VR Research Technologies)** - Technical Program Manager  
+Leading strategic programs for AR/VR research technologies with focus on camera/sensor development, data labeling operations, and cross-functional team coordination.
+
+**Previous Roles:**  
+Systems Engineering and technical leadership positions in aerospace/defense 🛡️, managing mature national assets, complex UAV systems development 🛩️, and smart contract development for DeFi protocols.
+
+## 🛠️ Technical Skills
+
+Python | JavaScript | Solidity | Yul | Cadence | SQL | HTML/CSS | Google Workspace | Asana | Jira | Git
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing program management, technical leadership, AR/VR systems, blockchain development, or emerging technologies. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/24-jason-j-garcia/).
+
+---
+
+💡 *Exploring my repositories? You'll find a mix of blockchain development projects, automation tools, and technical experiments that reflect my journey from hands-on engineering to strategic program management.*
