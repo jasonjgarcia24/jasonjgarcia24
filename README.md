@@ -4,9 +4,9 @@
 
 ## 👋 About Me
 
-I'm Jason Garcia, a Technical Program Manager with 10+ years of experience driving complex technical programs from concept to delivery. Currently at Meta's AR/VR Research Technologies division, I lead cross-functional teams, manage multi-million dollar budgets 💰, and coordinate strategic initiatives across camera and sensor development, annotations and data labeling processes, and vendor contract management.
+I'm Jason Garcia, a Technical Program Manager with 10+ years of experience driving complex technical programs from concept to delivery. Currently at Meta's AR/VR Research Technologies division, I lead cross-functional teams, manage multi-million dollar budgets, and coordinate strategic initiatives across camera and sensor development, annotations and data labeling processes, and vendor contract management.
 
-My background spans both hands-on technical development 👨‍💻 and strategic program leadership 📊. Before transitioning to program management, I specialized in blockchain development and DeFi protocol design ⛓️, where I built production-grade smart contracts and led development for startup initiatives with multimillion-dollar enterprise customers. This technical foundation enables me to bridge the gap between engineering teams and business stakeholders effectively.
+My background spans both hands-on technical development and strategic program leadership. Before transitioning to program management, I specialized in blockchain development and DeFi protocol design ⛓️, where I built production-grade smart contracts and led development for startup initiatives with multimillion-dollar enterprise customers. This technical foundation enables me to bridge the gap between engineering teams and business stakeholders effectively.
 
 I'm passionate about leveraging AI tools 🤖 for process automation, building robust evaluation infrastructure, and creating scalable solutions that drive measurable impact. Whether coordinating hardware development programs or optimizing data quality pipelines, I focus on strategic execution that aligns technical capabilities with business objectives.
 
