@@ -1,6 +1,6 @@
-# 🎯 Technical Program Manager | Cross-Functional Leadership | AR/VR Systems
+# 🎯 Technical Program Manager | Cross-Functional Leadership | AR/VR Systems | Defense/Aerospace
 
-**Contact:** [jjgarcia.eth](https://etherscan.io/name-lookup-search?id=jjgarcia.eth) | Discord: jjgarcia.eth | Telegram: @JJGarcia24
+**Contact:** [LinkedIn](https://www.linkedin.com/in/24-jason-j-garcia/) | Discord: jasongarcia200
 
 ## 👋 About Me
 
