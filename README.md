@@ -1,39 +1,29 @@
-# 🎯 Technical Program Manager | Cross-Functional Leadership | AR/VR Systems | Defense/Aerospace
+# Technical Program Manager — AI/ML Research Programs
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/24-jason-j-garcia/) | Discord: jasongarcia200
+**Contact:** [LinkedIn](https://www.linkedin.com/in/24-jason-j-garcia/)
 
 ## 👋 About Me
 
-I'm Jason Garcia, a Technical Program Manager with 10+ years of experience driving complex technical programs from concept to delivery. Currently at Meta's AR/VR Research Technologies division, I lead cross-functional teams, manage multi-million dollar budgets, and coordinate strategic initiatives across camera and sensor development, annotations and data labeling processes, and vendor contract management.
+I'm Jason Garcia, a Technical Program Manager with 10+ years driving complex technical programs across AI/ML research, AR/VR hardware, and aerospace/defense systems. I lead cross-functional teams, manage multi-million-dollar budgets, and build the evaluation, data, and process infrastructure that turns research into product.
 
-My background spans both hands-on technical development and strategic program leadership. Before transitioning to program management, I specialized in blockchain development and DeFi protocol design ⛓️, where I built production-grade smart contracts and led development for startup initiatives with multimillion-dollar enterprise customers. This technical foundation enables me to bridge the gap between engineering teams and business stakeholders effectively.
+Most recently at Meta's AR/VR Research Technologies (Eye Tracking), I led programs spanning camera and sensor development, annotation and data-labeling pipelines, human-evaluation design, and vendor contract management. Before Meta, I led smart-contract development at an NFT-infrastructure startup (NFTKred), built defense systems engineering programs at Raytheon Israel, and spent 7+ years at Northrop Grumman on UAV flight test, radar, and software engineering.
 
-I'm passionate about leveraging AI tools 🤖 for process automation, building robust evaluation infrastructure, and creating scalable solutions that drive measurable impact. Whether coordinating hardware development programs or optimizing data quality pipelines, I focus on strategic execution that aligns technical capabilities with business objectives.
+Lately I've been building AI-native tooling for how PMs actually work — Claude skills and agents, RAG over personal knowledge, compounding email triage, AI/ML project scaffolding. The pinned repos below are the short tour.
 
-## 🚀 Core Competencies
+## 🚀 What I do well
 
-**Program & People Management:** Cross-functional coordination | Stakeholder management | Team leadership | Budget planning & financial strategy | Vendor contract management
+**AI/ML program management** — eval infrastructure · data pipeline & labeling ops · human eval design · research-to-product handoff
+**Program & people leadership** — cross-functional coordination · stakeholder management · budget planning ($21M+ annual) · vendor contracts
+**AI-native PM workflows** — Claude skills & agents · RAG & retrieval systems · LLM-augmented process design · internal tool building
 
-**Technical Expertise:** Software development lifecycle | Camera & sensor systems (VR/AR) 🥽 | Data quality & eval infrastructure | AI tools integration | Technical documentation
+## 🛠️ Technical stack
 
-**Strategic Execution:** Strategic planning | Process automation | Knowledge management | Annotations & data labeling | Systems engineering
+Python · JavaScript/TypeScript · React · SQL · Claude Agent SDK · prompt engineering · RAG (chunking, hybrid retrieval, eval) · Solidity/Yul (past) · Jira · Linear · Asana · Git
 
-## 💼 Professional Experience
+## 🤝 Let's connect
 
-**Meta (AR/VR Research Technologies)** - Technical Program Manager  
-Leading strategic programs for AR/VR research technologies with focus on camera/sensor development, data labeling operations, and cross-functional team coordination.
-
-**Previous Roles:**  
-Systems Engineering and technical leadership positions in aerospace/defense 🛡️, managing mature national assets, complex UAV systems development 🛩️, and smart contract development for DeFi protocols.
-
-## 🛠️ Technical Skills
-
-Python | JavaScript | Solidity | Yul | Cadence | SQL | HTML/CSS | Google Workspace | Asana | Jira | Git
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing program management, technical leadership, AR/VR systems, blockchain development, or emerging technologies. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/24-jason-j-garcia/).
+Actively looking for senior TPM, engineering program manager, or senior integration engineer roles at AI labs and infra-heavy orgs. [LinkedIn](https://www.linkedin.com/in/24-jason-j-garcia/) is the best channel.
 
 ---
 
-💡 *Exploring my repositories? You'll find a mix of blockchain development projects, automation tools, and technical experiments that reflect my journey from hands-on engineering to strategic program management.*
+💡 *Ten years of shipping complex hardware and software programs — now focused on how AI-native tooling reshapes what a single PM can actually deliver.*
