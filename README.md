@@ -1,4 +1,4 @@
-# Technical Program Manager — AI/ML Research Programs
+# Technical Program Manager
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/24-jason-j-garcia/)
 
